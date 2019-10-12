@@ -59,5 +59,5 @@ if (pets < allowedPets) {
 // variable to `mostPets`. Console log the value of `mostPets`.
 if ( friendsPets > pets ){
   let friendsPets= 'mostPets'
-  console.log(mostPets);
+  console.log('mostPets');
 }
