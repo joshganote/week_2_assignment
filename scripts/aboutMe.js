@@ -14,7 +14,7 @@ let age= 29;
 // 6 - Console log this sentence, adding in the variables you created above:
 // 'My name is (full name), and I am (age) years old.'.
 // Refer back to the videos if you need help with this one.
-let sentence= ('My name is ' + fullName + ' and I am ' + age + ' years old');
+let sentence= ('My name is ' + fullName + ' and I am ' + age + ' years old.');
 console.log(sentence);
 // 7 - Create a variable named `adventurous` and set it to a boolean value (true or false)
 let adventurous= 'True';
